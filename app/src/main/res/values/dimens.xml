@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">40dp</dimen>
+    <dimen name="margin_screen">40dp</dimen>
+    <dimen name="screen_padding">40dp</dimen>
+</resources>
